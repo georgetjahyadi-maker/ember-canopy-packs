@@ -1,0 +1,13 @@
+{
+ "packs": [
+  {
+   "id": "test_pack",
+   "title": "quick test pack",
+   "url": "test_pack.pck",
+   "bytes": 8390952,
+   "sha256": "c97c941300bdef973966b0a101a47d8b35d5c8edd04c117e2837575d0c9a6f4c",
+   "texture": "res://pack_src/hello.png",
+   "text": "res://pack_src/hello.txt"
+  }
+ ]
+}
