@@ -1,0 +1,31 @@
+{
+ "act": 1,
+ "bytes": 48650736,
+ "chunk_bytes": 4194304,
+ "chunk_sha256": [
+  "4953fc85201349f01a10701edf1b01d1e7e990dafe3d1b23f64041c35d79abd5",
+  "e1185d3188e23f697771eb113efe9d47d1f980d743d15105b167c89aa3f869c8",
+  "a5dbb1fd22114e1840071437688c7ff07a96ba19a74f7f8113b6eebca1315a1c",
+  "6d90bbb54d93d4795f0463a1b1ef4c00a9b337a00f74b8bdc2dd180b6b0de3b9",
+  "63a234afc5c24da83e4359c7b13f5dfae58538202a770746590f912a404c26e2",
+  "f975846671a04d642484ca8d6adef4de48fdde03d67faac4810b48483f9dcc42",
+  "c9c1e293c0105e2d005710415a663064af49842e88d5cbd3305a932e6cf1c86b",
+  "69aa0968c6b0da485db1efb7e72a096470bd4d2e3cf547dc772e5bacaff6be2b",
+  "9698779dc644b8edca0d06b4d6224530f2c0ba88651827fd84efd1c6e222e3bf",
+  "e49d91bfadd45a51a9149c38096f4e92f07cfdbcd6f230ac1a4bca55003760d2",
+  "84fbb8fa31816e852a286e6cafc5cb5d2895337c7d66b4aa61f3ab9f67eb7b9a",
+  "22d7226258b02525d198f0a49ce5212c897d9066f97c5375dd0febfc5de25bf8"
+ ],
+ "id": "act1_sentarum",
+ "path": "v1/act1_sentarum.pck",
+ "requires": [
+  "core_art",
+  "core_art_rima",
+  "core_art_m1",
+  "core_art_m2"
+ ],
+ "sha256": "c3b70ef4fd84d5b7ae8446ae0ce62f0f6e2486d936131fd80d68f7e13a8ce512",
+ "size_bytes": 48650736,
+ "url": "v1/act1_sentarum.pck",
+ "version": 1
+}

@@ -1,0 +1,28 @@
+{
+ "act": 1,
+ "bytes": 36948720,
+ "chunk_bytes": 4194304,
+ "chunk_sha256": [
+  "aab7353a07981f4a1d5ed2720243eb79364186f5b510ac66ae72f8a072b39290",
+  "ed2f3a1b0934a1d4b1c7e5ec91527a45413fe56474d6bd84fbe264abb5548168",
+  "4f33c57da7ca7445d16041d5880122a5668c0c30a9c2c06e69d3388e13f1e722",
+  "fc1417e8093b7ad7a6fc693dc6cec277fb01b454e63a3509ca15076c8b33cf6f",
+  "ed9c1688f03ba50f610351c2071757affc98e331e812d470c8bb46cfc60bcf76",
+  "0b24347400024598d59b8b9a512d587c8fcd9dbad163104e3ab15022d67f065e",
+  "235bd33d9f6a2beab7f8d782c5fcb803a64a3a41a6bc07310cfa010ebce736ab",
+  "ef53b1d38fafc3bd6afe224bc1d34e51940292d702be32192e1a5d8c97faed1b",
+  "d3b204e696d81908a7bb798e870338175dd6d699075140654d02a543fd154635"
+ ],
+ "id": "act1_tanjungputing",
+ "path": "v1/act1_tanjungputing.pck",
+ "requires": [
+  "core_art",
+  "core_art_rima",
+  "core_art_m1",
+  "core_art_m2"
+ ],
+ "sha256": "9b314d81edd22b4a222d1e936ff4db38ffd563770379a0878629fae657edb891",
+ "size_bytes": 36948720,
+ "url": "v1/act1_tanjungputing.pck",
+ "version": 1
+}
