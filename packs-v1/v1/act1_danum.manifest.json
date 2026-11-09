@@ -1,9 +1,9 @@
 {
  "act": 1,
- "bytes": 50174588,
+ "bytes": 50174812,
  "chunk_bytes": 4194304,
  "chunk_sha256": [
-  "cd5ae776b49ee9ccf3c5554f7960009e2a38d87e0a885f6d15ed97ce83080fe7",
+  "a7812514f37fb3feed5a25dc116c6d858abf25bcac397adc993ac215fa5d01c1",
   "28d1ad3fa64bc033eef1cad610f233d13d211c3731018856fde7ea5ea8a8edc6",
   "d9871a6257f8669c0bc41b1dff1296cc8bf88288451eb923eda15ba1ab589c91",
   "9d66d82e271b45618f58275617713c037505d39e8ea09f336b7a471d44432d72",
@@ -14,7 +14,7 @@
   "47213db001bfe42e021f53c30c0e8de7325ffe03974cabceecc9b6cf9d68793d",
   "b14acba9a7dfa35e694e781438390acbf423d491d99f4c20e13c46104f2d63ef",
   "461b4d7540dc34c1663433003e094bcdba9fa338ce7a53b28c3d5a8f373fec1f",
-  "41b16efdc32245eee2d09bde266d4181c69805228ea53c6786a5f5eb94585a5a"
+  "30030eb174322d4ec582a2fb3ab8ea3f62db1260ba0c569fae350e3c9ce749cd"
  ],
  "id": "act1_danum",
  "path": "v1/act1_danum.pck",
@@ -24,8 +24,8 @@
   "core_art_m1",
   "core_art_m2"
  ],
- "sha256": "30229c2aab48fd16842f2cb6577a7b14dabdaf68f4e219ea10df2a836913e40c",
- "size_bytes": 50174588,
+ "sha256": "b1e43ba035ef4eeb823f77341763ad7e6fdd46a18257fef4b5191e1e70d3ba2f",
+ "size_bytes": 50174812,
  "url": "v1/act1_danum.pck",
  "version": 1
 }

@@ -1,9 +1,9 @@
 {
  "act": 0,
- "bytes": 46411800,
+ "bytes": 46412024,
  "chunk_bytes": 4194304,
  "chunk_sha256": [
-  "f3035aa9f5854fb85687b63d1089b8e11f1beeae015d2bbe8f0d60ebe22132e3",
+  "86f6813f2219a983b422d77b79bd957c3b35fb6a11591f5be08c04a5101edc8f",
   "eca931d80a5b158eeb9f221fb542c4417d18ba44a29d3f50a9fe53fd8b9da238",
   "9345fb0ae8388655dbf568e1464bc087b1de0895bccc8c4438f4afdecd231991",
   "f6a779ac5d1910effc4df8338aaa81a64a5f1eaa813896300dca2561d97a4979",
@@ -14,13 +14,13 @@
   "fe33c4f3b112153d9e1c3c6d7afb1b9cc98735cc878558366839d0f95f219ece",
   "ad0ab95ba67c726b72d963e38bf10c6471900acfebd53525b4bb706e35d85283",
   "3718cf675e12bc63e981e9c1617acea5bdf7469a0dd527555af7e5b0ba4f8cd3",
-  "6096afe6fdd094285f64c11a950fcf0bf4358ad844069e52de51dc9c5780a5c1"
+  "888ab32afe77c39fc872bc0ba89170e14d12df57f2de781e1556bf95e5cdcfd5"
  ],
  "id": "core_art",
  "path": "v1/core_art.pck",
  "requires": [],
- "sha256": "cd947a568e4baf52ac59f23375c2a5d9e0c7dbd1ee3693d613f525269393bcaa",
- "size_bytes": 46411800,
+ "sha256": "aeb537f6b9e707630cde3b109bd4b1fd60da305b7ceac26cdcf50f1992c80236",
+ "size_bytes": 46412024,
  "url": "v1/core_art.pck",
  "version": 1
 }
