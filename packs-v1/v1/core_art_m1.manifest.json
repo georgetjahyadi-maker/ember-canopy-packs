@@ -1,18 +1,18 @@
 {
  "act": 0,
- "bytes": 16642188,
+ "bytes": 16642988,
  "chunk_bytes": 4194304,
  "chunk_sha256": [
-  "d8dbdb23ed5c241a84e7cd72294120747562460d8655db8f103427f3216e8bee",
-  "5d13cf96fe74a465f17095eaab33a4d6d2c272f54333f604aff8ae3db4d62a0a",
+  "d5fc07aaeef6b7878b7bd69b7537f8c0abeb4747e297f452c38a88e158ca0de4",
+  "406b7dfb4bd72d78bcd4402aae8141fce3a89845388d6eefa132252e44d15391",
   "b1ac8a7ae7815c591f5a8329e0f13391bff2e14fa63bd23023ed7a8e11406cc4",
-  "b8e3694a03589e19be013411c356bd04e341f37cbd34810c8f195becd55107fe"
+  "d1c5de6de3acb3740e5028918eb5bf7841331b70a4f104d6f87435d71263bb1b"
  ],
  "id": "core_art_m1",
  "path": "v1/core_art_m1.pck",
  "requires": [],
- "sha256": "dfa8cbacefb95cf049270645935c88f069172feebaac2d84e3ab5b1ed6ce1773",
- "size_bytes": 16642188,
+ "sha256": "7531ef7dd4bc3c97f137fe1668eb4eddd8829c5d58d34ec71ad200967d80a297",
+ "size_bytes": 16642988,
  "url": "v1/core_art_m1.pck",
  "version": 1
 }
