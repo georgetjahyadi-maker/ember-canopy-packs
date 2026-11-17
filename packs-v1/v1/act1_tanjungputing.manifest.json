@@ -1,9 +1,9 @@
 {
  "act": 1,
- "bytes": 36948944,
+ "bytes": 36950352,
  "chunk_bytes": 4194304,
  "chunk_sha256": [
-  "7bd4bb1ed0ba805b116e39e2d643fa14406c8fae711d64b899d9ffc749e5d6fd",
+  "93a4c579f53c81fdde4ec383423bfed3eab57cb062920275824275615ca4d41d",
   "ed2f3a1b0934a1d4b1c7e5ec91527a45413fe56474d6bd84fbe264abb5548168",
   "4f33c57da7ca7445d16041d5880122a5668c0c30a9c2c06e69d3388e13f1e722",
   "fc1417e8093b7ad7a6fc693dc6cec277fb01b454e63a3509ca15076c8b33cf6f",
@@ -11,7 +11,7 @@
   "0b24347400024598d59b8b9a512d587c8fcd9dbad163104e3ab15022d67f065e",
   "235bd33d9f6a2beab7f8d782c5fcb803a64a3a41a6bc07310cfa010ebce736ab",
   "ef53b1d38fafc3bd6afe224bc1d34e51940292d702be32192e1a5d8c97faed1b",
-  "74988f7a7fed04c69d83e264e0ea4ad8b2cff55a77342eb08187ec0f4aa027e2"
+  "da1ed2650aa6830aeb56176296b6889100c98dadc4c8cb1d5021123a598fde51"
  ],
  "id": "act1_tanjungputing",
  "path": "v1/act1_tanjungputing.pck",
@@ -21,8 +21,8 @@
   "core_art_m1",
   "core_art_m2"
  ],
- "sha256": "132abec0cbe29d4fe00832ab857f8977006ed34a1401242d14996fb00e5d53ff",
- "size_bytes": 36948944,
+ "sha256": "d9b390a950665e75c1f73df548c589336df1b57c7934cdfc8b383224f32b6a52",
+ "size_bytes": 36950352,
  "url": "v1/act1_tanjungputing.pck",
  "version": 1
 }
