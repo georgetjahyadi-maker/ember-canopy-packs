@@ -1,6 +1,6 @@
 {
  "engine": "4.7.2",
- "game_build": "0.1.0+1",
+ "game_build": "0.1.0+10-85531da",
  "manifest_version": 1,
  "packs": [
   {
@@ -91,10 +91,10 @@
   },
   {
    "act": 0,
-   "bytes": 46413432,
+   "bytes": 49193944,
    "chunk_bytes": 4194304,
    "chunk_sha256": [
-    "ed5425e5f9d446e4ec701dbdd86c209ccd26ff601fbc2bd74fa367a1e8a05080",
+    "92e03e8ff8e1261c6e9e4bb8e869e446cab30da9cc8ff133d2dff829c0718c73",
     "eca931d80a5b158eeb9f221fb542c4417d18ba44a29d3f50a9fe53fd8b9da238",
     "9345fb0ae8388655dbf568e1464bc087b1de0895bccc8c4438f4afdecd231991",
     "f6a779ac5d1910effc4df8338aaa81a64a5f1eaa813896300dca2561d97a4979",
@@ -102,16 +102,16 @@
     "b6941e947a568b6ec3fc8a53feeba1d8753cec5e278ccbce3dd13bf55ec90f74",
     "2313f90aaa5438dd7d3d84ba5741748e6240ff24feba8cc4a40068fe2e2be827",
     "bdfefe3ddc9719d795855766415a9eb3f1fe9e8f3125dcbb7899be1cac1ff135",
-    "fe33c4f3b112153d9e1c3c6d7afb1b9cc98735cc878558366839d0f95f219ece",
-    "ad0ab95ba67c726b72d963e38bf10c6471900acfebd53525b4bb706e35d85283",
-    "3718cf675e12bc63e981e9c1617acea5bdf7469a0dd527555af7e5b0ba4f8cd3",
-    "010cf1aab255df0c7745ad6efacebf0c13d65fefbda7df5fd6dc504320e14027"
+    "a6fc3ef7700ffe07884b5f8a072118dd7fd60ced515eb0556a335fa00fb9380b",
+    "e951c37c77d163f625ae8a80014024c662b3a9c096f67c29d85a7d925e58a803",
+    "8e1ec1ab40f90424c3cc8a928c57171a09d04c38170a1f87f69bdd9ee746128d",
+    "658dbbe66ccf7071257ca3bd0cffd38b9329ac85a0dffc0679fd3162b4e46d9b"
    ],
    "id": "core_art",
    "path": "v1/core_art.pck",
    "requires": [],
-   "sha256": "5f74ef811748d617c61840685d0235a816fc8f02b1a9f01f7f58c4611eb6ee6a",
-   "size_bytes": 46413432,
+   "sha256": "5954b0058a58bb221955453df9cd481e108c90e9af49bd1acfa9d0f7e46b8e3d",
+   "size_bytes": 49193944,
    "url": "v1/core_art.pck",
    "version": 1
   },
@@ -123,12 +123,12 @@
     "b57c9819bd331df0c335e9ab15cb1718176830c63759c30b69ae33e403ab80af",
     "6c072b2c830d77076b1902435f7a3e2dc2a43a5962f90890409b097d5443a206",
     "b1ac8a7ae7815c591f5a8329e0f13391bff2e14fa63bd23023ed7a8e11406cc4",
-    "ad40b71f49b197e0dfee2924d7d2baa08ab2b351ca4c1262fa1eedc90bc485e6"
+    "1bae7c59ef0b1dfab96554c05ed7de759d988f8f612e90ced6b14241fad9b1a9"
    ],
    "id": "core_art_m1",
    "path": "v1/core_art_m1.pck",
    "requires": [],
-   "sha256": "9cf2908173d721eced1776a2c8ac34a1827d7ed3fea0079d0b0ba36fecb00a53",
+   "sha256": "3ae7ddd41f0bf85f4b5fb468a9007fd42517252ae0087391481988ba44a0db11",
    "size_bytes": 16643596,
    "url": "v1/core_art_m1.pck",
    "version": 1
